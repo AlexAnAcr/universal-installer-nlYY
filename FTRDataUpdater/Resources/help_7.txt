@@ -1,0 +1,12 @@
+{\rtf1\ansi\ansicpg1251\deff0\deflang1049{\fonttbl{\f0\fnil\fcharset204 Lucida Console;}{\f1\fnil\fcharset0 Lucida Console;}}
+{\colortbl ;\red0\green100\blue0;\red0\green0\blue0;\red0\green0\blue255;\red255\green140\blue0;}
+\viewkind4\uc1\pard\qc\f0\fs20 ----\'cd\'e0\'f1\'f2\'f0\'ee\'e9\'ea\'e8 \lang1033\f1 UI\lang1049\f0 ----\par
+\pard ----\'cd\'e5\'ee\'e1\'f5\'ee\'e4\'e8\'ec\'fb\'e5 \'ea\'ee\'ec\'e0\'ed\'e4\'fb:\par
+\cf1 update\cf0\lang1033\f1\par
+\lang1049\f0\par
+\lang1033\f1 -\lang1049\f0 ---\'c7\'ed\'e0\'f7\'e5\'ed\'e8\'ff:\cf2\par
+\cf1 update\cf3 =\cf4\lang1033\f1\{allow/deny\}\cf2\lang1049\f0\par
+\cf0\par
+--\lang1033\f1 -\lang1049\f0 -\'cf\'f0\'e8\'ec\'e5\'f0:\cf4\lang1033\f1\par
+\cf1\lang1049\f0 update\cf3 =\cf4\lang1033\f1 allow\par
+}

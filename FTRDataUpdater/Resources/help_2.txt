@@ -1,0 +1,16 @@
+{\rtf1\ansi\ansicpg1251\deff0\deflang1049{\fonttbl{\f0\fnil\fcharset204 Lucida Console;}{\f1\fnil\fcharset0 Lucida Console;}}
+{\colortbl ;\red0\green100\blue0;\red0\green0\blue255;\red255\green140\blue0;}
+\viewkind4\uc1\pard\qc\f0\fs20 ----\'c2\'e5\'f0\'f1\'e8\'ff----\par
+\pard ----\'cd\'e5\'ee\'e1\'f5\'ee\'e4\'e8\'ec\'fb\'e5 \'ea\'ee\'ec\'e0\'ed\'e4\'fb:\par
+\cf1\lang1033\f1 version\cf0 , \cf1 location\cf0 , \cf1 code\par
+\cf0\lang1049\f0\par
+---\lang1033\f1 -\lang1049\f0\'c7\'ed\'e0\'f7\'e5\'ed\'e8\'ff:\par
+\cf1\lang1033\f1 version\cf2\lang1049\f0 =\cf3\lang1033\f1\{\lang1049\f0\'e2\'e5\'f0\'f1\'e8\'ff (\lang1033\f1 float\lang1049\f0 )\lang1033\f1\}\par
+\cf1 location\cf2\lang1049\f0 =\cf3\lang1033\f1\{\lang1049\f0\'ef\'f3\'f2\'fc \'ea \'f4\'e0\'e9\'eb\'f3 \'e2 \'ef\'e0\'ef\'ea\'e5 "\lang1033 source\lang1049 "\lang1033\f1\}\cf0\par
+\cf1 code\cf2\lang1049\f0 =\cf3\lang1033\f1\{\lang1049\f0\'cb\'fe\'e1\'ee\'e9 \'ed\'e0\'e1\'ee\'f0 \'f1\'e8\'ec\'e2\'ee\'eb\'ee\'e2\lang1033\f1\}\par
+\cf0\lang1049\f0\par
+--\lang1033\f1 -\lang1049\f0 -\'cf\'f0\'e8\'ec\'e5\'f0:\par
+\cf1\lang1033\f1 version\cf2\lang1049\f0 =\cf3 1,0\lang1033\f1\par
+\cf1 location\cf2\lang1049\f0 =\cf3\lang1033\f1 UIv1.zip\par
+\cf1 code\cf2\lang1049\f0 =\cf3\lang1033\f1 1234\cf0\lang1049\f0\par
+}

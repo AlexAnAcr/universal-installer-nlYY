@@ -1,0 +1,9 @@
+{\rtf1\ansi\ansicpg1251\deff0\deflang1049{\fonttbl{\f0\fnil\fcharset204 Lucida Console;}{\f1\fnil\fcharset0 Lucida Console;}}
+{\colortbl ;\red255\green140\blue0;\red0\green0\blue255;\red0\green100\blue0;}
+\viewkind4\uc1\pard\qc\f0\fs20 ----\'d1\'e5\'f0\'e2\'e5\'f0\'e0----\par
+\pard ----\'c7\'ed\'e0\'f7\'e5\'ed\'e8\'ff:\par
+\cf1\lang1033\f1 number\cf2 |\cf1 ip\cf2 |\cf1 username\cf2 |\cf1 password\cf0\lang1049\f0\par
+\par
+--\lang1033\f1 -\lang1049\f0 -\'cf\'f0\'e8\'ec\'e5\'f0:\par
+\cf1 1|93.188.160.184|u257047483.ftpupdate|OfeG8eEN8zZ6\cf3\par
+}
